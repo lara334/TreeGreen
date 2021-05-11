@@ -1,0 +1,10 @@
+footer {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  height: 50px;
+  margin: 0 0px; }
+
+footer .footer-social {
+  display: flex;
+  flex-direction: row; }
